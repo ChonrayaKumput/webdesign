@@ -1,0 +1,56 @@
+{
+    margin: 0;
+    padding: 0
+}
+nav{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+}
+header{
+    background : linear-gradient(red,orange);
+    opacity: 0.4;
+    height: 600px;
+}
+aside{
+    background-color: rgb(214, 155, 226);
+    width: 20%;
+    height: 600px;
+    float: left;
+}
+article{
+    background-color: aquamarine;
+    width: 60%;
+    height: 600px;
+    float: left;
+}
+section{
+    float: right;
+    background-color: darkgray;
+    width: 20%;
+    height: 600px;
+}
+.p1{
+    float: left;
+    background: rgb(180, 236, 155);
+    width: 100%;
+    height: 200px;
+}
+.p2{
+    float: left;
+    background: rgb(205, 203, 231);
+    width: 100%;
+    height: 200px;
+}
+.p3{
+    float: left;
+    background: rgb(247, 157, 217);
+    width: 100%;
+    height: 200px;
+}
+footer{
+    clear: both;
+    background-color: darksalmon;
+    width: 100%;
+    height: 100px;
+}
